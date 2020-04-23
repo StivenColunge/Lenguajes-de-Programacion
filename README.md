@@ -60,3 +60,16 @@ En imagenes:
 > Mi mejor proyecto de video.
 > Link. https://www.youtube.com/watch?v=9s8sUwAMTjo
 -------------
+## STACKHOLDER
+
+| NOMBRES  | CARGO |
+| ------------- | ------------- |
+| Stiven Colunge | Progrmer |
+| jose Gutierritos  | programer J. |
+
+-------------
+
+## Lista de Requerimientos
+- [x] Conectar SQL
+- [x] Insert de datos
+- [ ] .JR DEL JUEGO
