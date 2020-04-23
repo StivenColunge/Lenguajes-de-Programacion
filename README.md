@@ -1,4 +1,4 @@
-### Stiven Armando Colunge Lopez
+# Stiven Armando Colunge Lopez
 
 - Soy un estudainte de 2 semestre en Tegnologia en desrrollo en software. Soy un apacionado por los videojuegos y las animaciones, por lo tanto me inclino mucho mas a la aprte de multimedia.
 
@@ -6,7 +6,7 @@
 
 -------------
 
-# CREABBLE
+## CREABBLE
  Desarrolldora de videojuegos.
 
 ![](https://cdn130.picsart.com/318797516258211.png?type=webp&to=min&r=640)
@@ -55,6 +55,8 @@ En imagenes:
 ![](https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/image_750x424/public/field/image/article/gorillaz-serie-web.jpg?itok=Qh78nNXs)
 
 > Me gusta su musica.
+-------------
 ![](https://i.ytimg.com/vi/9s8sUwAMTjo/maxresdefault.jpg)
 > Mi mejor proyecto de video.
 > Link. https://www.youtube.com/watch?v=9s8sUwAMTjo
+-------------
