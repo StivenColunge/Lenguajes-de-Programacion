@@ -43,14 +43,14 @@ Requisitos Funcionales :
 ######El usuario tendra la capacidad de cerrar y salir del aplicativo cuando el lo desee 
                 
 ----
-####Javascript　
+Javascript　
 
 ```javascript
 function test(){
 	console.log("Gracias por leer <3");
 }
 ```
-###Datos sobre Mi 
+Datos sobre Mi 
 
 En imagenes:
 
