@@ -49,6 +49,7 @@ Requisitos Funcionales :
 function test(){
 	console.log("Gracias por leer <3");
 }
+```
 ###Datos sobre Mi 
 
 En imagenes:
