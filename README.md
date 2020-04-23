@@ -4,6 +4,7 @@
 
 - Al interesarme por el mundo de la multimedia tengo mi propio canal en youtube que lo podran ver en el siguiente link https://www.youtube.com/channel/UC5Kmf1wBKZoTym06u7gRTqg?view_as=subscriber
 
+-------------
 
 # CREABBLE
  Desarrolldora de videojuegos.
@@ -18,13 +19,11 @@
 [TOC]
 
 
-######Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-
 ## AIR MUSIC
 Es un videojuego Air Music es diferente a los demás en su clase 
 ya que está desarrollado de forma que el jugador pueda colocar su propia música del
 favorita y de esa forma tenga reparación en el juego.
-
+-------------
 =============
 
 Caracteristicas:
@@ -48,6 +47,7 @@ function test(){
 	console.log("Gracias por leer <3");
 }
 ```
+-------------
 ### Datos sobre Mi 
 
 En imagenes:
@@ -55,3 +55,6 @@ En imagenes:
 ![](https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/image_750x424/public/field/image/article/gorillaz-serie-web.jpg?itok=Qh78nNXs)
 
 > Me gusta su musica.
+![](https://i.ytimg.com/vi/9s8sUwAMTjo/maxresdefault.jpg)
+> Mi mejor proyecto de video.
+> Link. https://www.youtube.com/watch?v=9s8sUwAMTjo
