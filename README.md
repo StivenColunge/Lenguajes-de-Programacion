@@ -52,13 +52,13 @@ function test(){
 
 En imagenes:
 
-![](https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/image_750x424/public/field/image/article/gorillaz-serie-web.jpg?itok=Qh78nNXs)
+![](https://i.ytimg.com/vi/XWv_JpfVRfo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCB5PIQMph_gDGQA05WXOSaiJNeHA)
 
-> Me gusta su musica.
+> Primer version del juego. Link. https://www.youtube.com/watch?v=XWv_JpfVRfo
 -------------
-![](https://i.ytimg.com/vi/9s8sUwAMTjo/maxresdefault.jpg)
-> Mi mejor proyecto de video.
-> Link. https://www.youtube.com/watch?v=9s8sUwAMTjo
+![](https://i.ytimg.com/vi/R6QeFoqyNp0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA-EnCvMYPXauLPzr-mK0_eqs4DhA)
+> 2 version del juego.
+> Link. https://www.youtube.com/watch?v=R6QeFoqyNp0
 -------------
 ## STACKHOLDER
 
