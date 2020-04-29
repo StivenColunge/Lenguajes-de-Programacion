@@ -26,11 +26,12 @@ favorita y de esa forma tenga reparación en el juego.
 -------------
 =============
 
-Caracteristicas:
+OBJETIVOS:
 -------------
 
-###### El sistema deberá permitir iniciar una nueva partida siempre que el jugador lo desee, en caso de haber una partida guardada esta será sustituida.
-###### La aplicación deberá ofrecer la posibilidad al usuario de continuar con una partida guardada, los objetos, monedas, escudos, banderas y el personaje deberá mantenerse en la misma posición que se encontraba por última vez 
+###### Este software podrá ayudar a la población con discapacidad visual por su innovador funcionamiento y desarrollo a la hora de entretenimiento personal, también será parte del entretenimiento personal y será dirigido a todo público
+###### Por otra parte tendrá fácil funcionamiento y requerimiento del sistema (RAM).
+
 
 Requisitos Funcionales :
 -------------
