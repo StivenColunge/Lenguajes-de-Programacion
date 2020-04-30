@@ -14,15 +14,9 @@
 
 **AIR MUSIC**
 
-[TOCM]
 
-[TOC]
-
-
-## AIR MUSIC
-Es un videojuego Air Music es diferente a los demás en su clase 
-ya que está desarrollado de forma que el jugador pueda colocar su propia música del
-favorita y de esa forma tenga reparación en el juego.
+## DESCRIPCION
+Es un videojuego Air Music es diferente a los demás en su clase, ya que está desarrollado de forma que el jugador pueda colocar su propia música favorita y de esa forma tenga repercusión en el juego. Esta tecnología es inodora para el mercado actual ya que no existe alguna que logre sincronizar la música el momento de jugar. 
 -------------
 =============
 
