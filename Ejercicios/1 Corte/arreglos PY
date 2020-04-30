@@ -1,4 +1,4 @@
-espaciodelvector=int(input("ingrese el tamaño de 1 a 5: "))
+espaciodelvector=int(input("ingrese el tamaÃ±o de 1 a 5: "))
 vector=[]
 if (espaciodelvector>5 or espaciodelvector<=0):
     print("jajaja que chistosito lok")
