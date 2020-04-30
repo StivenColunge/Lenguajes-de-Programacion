@@ -19,6 +19,11 @@
 Es un videojuego Air Music es diferente a los demás en su clase, ya que está desarrollado de forma que el jugador pueda colocar su propia música favorita y de esa forma tenga repercusión en el juego. Esta tecnología es inodora para el mercado actual ya que no existe alguna que logre sincronizar la música el momento de jugar. 
 -------------
 =============
+## FUNCIONAMIENTO
+###### Según el BPN (vibraciones por segundo de la música o en términos más simples es su velocidad) al momento de ser reproducida la canción el juego será capaz de reconocer el numero de BPN de la canción para de esa forma generar los enemigos y también en la que serán generados. Su velocidad también será importante en el juego ya que entre más BPN mayor velocidad. 
+###### El juego reconoce los picos de frecuencia de la canción colocada por el jugador y terminar en qué momento generar más enemigos en el mapa.
+
+## FUNCIONAMIENTO
 
 OBJETIVOS:
 -------------
