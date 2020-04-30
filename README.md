@@ -23,7 +23,6 @@ Es un videojuego Air Music es diferente a los demás en su clase, ya que está d
 ###### Según el BPN (vibraciones por segundo de la música o en términos más simples es su velocidad) al momento de ser reproducida la canción el juego será capaz de reconocer el numero de BPN de la canción para de esa forma generar los enemigos y también en la que serán generados. Su velocidad también será importante en el juego ya que entre más BPN mayor velocidad. 
 ###### El juego reconoce los picos de frecuencia de la canción colocada por el jugador y terminar en qué momento generar más enemigos en el mapa.
 
-## FUNCIONAMIENTO
 
 OBJETIVOS:
 -------------
