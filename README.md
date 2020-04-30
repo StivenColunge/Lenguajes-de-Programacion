@@ -61,6 +61,7 @@ function test(){
 > Primer version del juego. Link. https://www.youtube.com/watch?v=XWv_JpfVRfo
 -------------
 2 VERSION:
+
 ![](https://i.ytimg.com/vi/R6QeFoqyNp0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA-EnCvMYPXauLPzr-mK0_eqs4DhA)
 
 > 2 version del juego.
