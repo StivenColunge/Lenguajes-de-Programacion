@@ -54,13 +54,14 @@ function test(){
 -------------
 ### Versiones del PROYECTO
 
-En VIDEO:
+1 VERSION:
 
 ![](https://i.ytimg.com/vi/XWv_JpfVRfo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCB5PIQMph_gDGQA05WXOSaiJNeHA)
 
 > Primer version del juego. Link. https://www.youtube.com/watch?v=XWv_JpfVRfo
 -------------
 ![](https://i.ytimg.com/vi/R6QeFoqyNp0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA-EnCvMYPXauLPzr-mK0_eqs4DhA)
+1 VERSION:
 > 2 version del juego.
 > Link. https://www.youtube.com/watch?v=R6QeFoqyNp0
 -------------
