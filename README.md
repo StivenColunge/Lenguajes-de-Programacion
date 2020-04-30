@@ -7,7 +7,7 @@
 -------------
 
 ## CREABBLE
- Desarrolldora de videojuegos.
+ Desarrolladora de videojuegos.
 
 ![](https://cdn130.picsart.com/318797516258211.png?type=webp&to=min&r=640)
 
